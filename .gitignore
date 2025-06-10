@@ -1,0 +1,8 @@
+-e bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.pubxml
+local.settings.json
