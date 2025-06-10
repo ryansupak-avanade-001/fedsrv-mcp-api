@@ -3,6 +3,7 @@ bin/
 obj/
 .vs/
 .vscode/
+*.swp
 *.user
 *.suo
 *.pubxml
