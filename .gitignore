@@ -1,4 +1,5 @@
--e bin/
+Properties/
+bin/
 obj/
 .vs/
 .vscode/
